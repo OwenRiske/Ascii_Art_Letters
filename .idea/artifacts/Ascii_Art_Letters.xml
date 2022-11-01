@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ascii Art Letters">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ascii_Art_Letters</output-path>
+    <root id="archive" name="Ascii Art Letters.jar">
+      <element id="module-output" name="Ascii Art Letters" />
+    </root>
+  </artifact>
+</component>
